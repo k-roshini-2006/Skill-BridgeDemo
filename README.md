@@ -148,7 +148,7 @@ The frontend is deployed on Vercel. The availability of automated skill analysis
 ## 📂 Source Code
 
 **GitHub Repository:**  
-https://github.com/Preethi22-06/Skill-Bridge-demo
+https://github.com/k-roshini-2006/Skill-BridgeDemo
 
 ---
 
